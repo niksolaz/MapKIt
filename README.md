@@ -1,2 +1,1 @@
-# MapKIt
-simple app with MapKitView 
+Simple app using MapKitView  
